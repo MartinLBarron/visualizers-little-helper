@@ -36,3 +36,9 @@ git clone https://github.com/MartinLBarron/visualizers-little-helper.git
 cp -r visualizers-little-helper ~/.claude/skills/
 ```
 
+or within Claude
+
+```
+/plugin add /path/to/skill-directory
+
+```
